@@ -1,6 +1,7 @@
 ### RNA-seq analysis for COVID and SARS expression comparison
 
-
+## Analysis and code by Lucas K. Bobadilla
+# If use for publication please cite: 
 
 
 # Material and methods
